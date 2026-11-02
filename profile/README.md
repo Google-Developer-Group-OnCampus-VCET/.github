@@ -41,6 +41,6 @@ Explore our repositories, contribute to projects, and grow with our community.
 
 <div align="center">
 
-**Learn Together. Build Together. Grow Together.**
+**Inspiring Coders | Building Solutions | Growing Together **
 
 </div>
